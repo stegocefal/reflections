@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
     
     I believe metadata directory and files are created to be able to track subsequent changes in the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    Staging are contains changes, which are work in progress and may be commited. It is used to accumulate logical changes related to a single commit. It offers the ability to flexibly change files and to undo changes.
+
