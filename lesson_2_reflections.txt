@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
     Staging are contains changes, which are work in progress and may be commited. It is used to accumulate logical changes related to a single commit. It offers the ability to flexibly change files and to undo changes.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+    I can add to staging area only those files which contain changes related to a single logical goal.
